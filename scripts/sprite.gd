@@ -11,6 +11,7 @@ func _ready() -> void:
 	position.x = 930
 	position.y = 550
 	#hola
+	#hola
 	
 	pass # Replace with function body.
 
