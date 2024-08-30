@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://j0ux78pg3r4j"
+path="res://.godot/imported/Remedies For Pain C#m 110_Vocals 2.wav-ba0a058a575b70071d5635ba9c1b30b6.sample"
+
+[deps]
+
+source_file="res://audio/Remedies For Pain C#m 110_Vocals 2.wav"
+dest_files=["res://.godot/imported/Remedies For Pain C#m 110_Vocals 2.wav-ba0a058a575b70071d5635ba9c1b30b6.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
